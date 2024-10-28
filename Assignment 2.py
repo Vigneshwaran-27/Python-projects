@@ -1,0 +1,6 @@
+Name = input("Name")
+Email_Id = input("Email_Id")
+Phone_Number = int(input("Phone_Number"))
+print("Username:",Name)
+print("Email:",Email_Id)
+print("Ph:",Phone_Number)
